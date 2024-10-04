@@ -1,0 +1,5 @@
+The Caesar cipher is one of the simplest and oldest encryption techniques. 
+It’s named after Julius Caesar, who used this method to protect military messages.
+The Caesar cipher is a type of substitution cipher, 
+where each letter in the plaintext is replaced by another letter that is a fixed number 
+of positions away in the alphabet.
